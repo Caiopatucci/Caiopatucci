@@ -15,7 +15,7 @@
  
  <br>
  
-  ###👾 Pra se quiser entrar em contato, abaixo estão minha redes sociais!
+  ### 👾 Pra se quiser entrar em contato, abaixo estão minha redes sociais!
  
 <div> 
   <a href="https://www.instagram.com/caiopatucci/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
